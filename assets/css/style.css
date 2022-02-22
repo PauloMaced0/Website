@@ -1,0 +1,182 @@
+header {
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li {
+    font-weight: bold;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 16vh;
+    background: #ccc;
+    margin-top: auto;
+}
+
+.bodyindex {
+    background-color: rgb(41, 65, 171);
+    background-image: url("https://www-growth.scdn.co/static/home/bursts-tablet.svg");
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div {
+    display: block;
+}
+
+main {
+    min-height: 100vh;
+}
+
+.nav-white-color {
+    color: white;
+}
+
+.nav-white-color:hover {
+    color: #00c448;
+}
+
+.justify-on-middle {
+    margin-right: 6vw;
+}
+
+.container-listening {
+    /* text-indent: -3.3em; */
+    /* transform: translate(125px, 0px); */
+    line-height: 166px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+.center {
+    margin: auto;
+    text-indent: -20em;
+    margin-top: 10%;
+}
+
+.h1-listening {
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    padding: 0px 0px 0em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: -0.04em !important;
+    color: var(--text-bright-accent, #00c448);
+}
+
+.h1-indent {
+    text-indent: 1.2em;
+}
+
+.indextextbelow {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #00c448;
+    font-size: 20px;
+    line-height: 24px;
+    text-indent: -3em;
+    padding: 0px 0px 1em;
+    padding-top: 30px;
+}
+
+.paragraphtext {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    padding: 0px 0px 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 550;
+    line-height: 25px;
+    letter-spacing: 0.04em;
+    color: inherit;
+}
+
+.h1-title {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    padding: 30px 1px 0.67em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1px;
+    line-height: 40px;
+    color: inherit;
+}
+
+.h2-title {
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.5px;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    padding: 30px 1px 0.75em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 900;
+    color: inherit;
+}
+
+.h3-title {
+    font-size: 24px;
+    line-height: 32px;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    padding: 1px 1px 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 900;
+    letter-spacing: -0.25px;
+    color: inherit;
+}
+
+.div-article {
+    margin-left: 57vh;
+    margin-right: 57vh;
+}
+
+.figure-spotify {
+    align-content: center;
+    margin-left: 13vh;
+}
+
+.div-estatist-last-chapter {
+    margin-top: 300px;
+}
+
+.list-streaming {
+    margin: auto;
+    padding: 2px 1px 1.5em;
+}
+
+.linkcolor {
+    color: black;
+}
+
+.linkcolorsec:hover {
+    color: #00c448;
+}
